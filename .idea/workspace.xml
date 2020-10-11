@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e31e2fe-7caa-4c06-897f-7cb1737619af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="oblig6" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="oblig6" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="UML Class" />
+        <option value="Work Breakdown Structure" />
+        <option value="Salt Wireframe" />
+        <option value="UML Sequence" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXGM0KfiAcTHlPuro9UhraWDOh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/no/hiof/andrefi/model" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andrf\OneDrive - Østfold University College\programmering2\oblig6\src\main\resources\vue\views" />
+      <recent name="C:\Users\andrf\OneDrive - Østfold University College\programmering2\oblig6\src\main\resources\vue" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+      <command value="gradle buildDependents" />
+      <command value="gradle check" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.andrefi.Main" />
+      <module name="oblig6.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.andrefi.Main" />
+      <module name="oblig6.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oblig6 [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="oblig6 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="oblig6 [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="check" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="oblig6 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.oblig6 [dependencies]" />
+      <item itemvalue="Gradle.oblig6 [build]" />
+      <item itemvalue="Gradle.oblig6 [buildDependents]" />
+      <item itemvalue="Gradle.oblig6 [check]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.oblig6 [check]" />
+        <item itemvalue="Gradle.oblig6 [buildDependents]" />
+        <item itemvalue="Gradle.oblig6 [build]" />
+        <item itemvalue="Gradle.oblig6 [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e31e2fe-7caa-4c06-897f-7cb1737619af" name="Default Changelist" comment="" />
+      <created>1586874472604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586874472604</updated>
+      <workItem from="1586874476056" duration="3329000" />
+      <workItem from="1586944685205" duration="14235000" />
+      <workItem from="1587038736709" duration="7703000" />
+      <workItem from="1587123961245" duration="17003000" />
+      <workItem from="1587392604860" duration="6325000" />
+      <workItem from="1587458192175" duration="7319000" />
+      <workItem from="1587466710825" duration="8680000" />
+      <workItem from="1587544491464" duration="11959000" />
+      <workItem from="1587630667240" duration="6458000" />
+      <workItem from="1587662396980" duration="600000" />
+      <workItem from="1587720160461" duration="320000" />
+      <workItem from="1587720493229" duration="7347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="359" key="#Notifications" timestamp="1586876549883">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="359" key="#Notifications/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1586876549883" />
+    <state x="872" y="359" key="#Project_Structure" timestamp="1586875416867">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="359" key="#Project_Structure/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1586875416867" />
+    <state x="1010" y="456" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586951647337">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="456" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1586951647337" />
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587459849224">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587459849224" />
+    <state x="1019" y="504" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587130638648">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1019" y="504" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587130638648" />
+    <state x="1085" y="385" key="#com.intellij.ide.util.MemberChooser" timestamp="1587662698881">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="385" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587662698881" />
+    <state x="639" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587466839853">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="639" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587466839853" />
+    <state x="986" y="442" key="FileChooserDialogImpl" timestamp="1587721532360">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="986" y="442" key="FileChooserDialogImpl/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587721532360" />
+    <state width="2517" height="238" key="GridCell.Tab.0.bottom" timestamp="1587730455634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="238" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587730455634" />
+    <state width="2517" height="238" key="GridCell.Tab.0.center" timestamp="1587730455634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="238" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587730455634" />
+    <state width="2517" height="238" key="GridCell.Tab.0.left" timestamp="1587730455634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="238" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587730455634" />
+    <state width="2517" height="238" key="GridCell.Tab.0.right" timestamp="1587730455634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="238" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587730455634" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1587475633607">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587475633607" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1587475633607">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587475633607" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1587475633607">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587475633607" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1587475633607">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587475633607" />
+    <state x="1112" y="336" key="SettingsEditor" timestamp="1587720481884">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1112" y="336" key="SettingsEditor/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587720481884" />
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1587720878083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587720878083" />
+    <state x="-1927" y="125" width="1936" height="1125" maximized="true" key="dock-window-1" timestamp="1587723221399">
+      <screen x="-1920" y="148" width="1920" height="1040" />
+    </state>
+    <state x="-1927" y="125" width="1936" height="1125" maximized="true" key="dock-window-1/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587723221399" />
+    <state x="-1920" y="148" width="1936" height="1125" key="dock-window-2" timestamp="1587723882258">
+      <screen x="-1920" y="148" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="148" width="1936" height="1125" key="dock-window-2/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587723882258" />
+    <state x="-8" y="-8" width="1936" height="1125" maximized="true" key="dock-window-3" timestamp="1587724269034">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-8" y="-8" width="1936" height="1125" maximized="true" key="dock-window-3/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587724269034" />
+    <state x="859" y="413" key="new project wizard" timestamp="1587460849834">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="859" y="413" key="new project wizard/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587460849834" />
+    <state x="936" y="330" width="672" height="677" key="run.anything.popup" timestamp="1587467153053">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" width="672" height="677" key="run.anything.popup/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587467153053" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587662927820">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1920.148.1920.1040@0.0.2560.1400" timestamp="1587662927820" />
+  </component>
+</project>

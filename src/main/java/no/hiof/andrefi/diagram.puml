@@ -1,0 +1,56 @@
+@startuml
+
+class Animal {
+    -animalType: String
+    -name: String
+    -scientificName: String
+    -population: int
+    -pictureURL: String
+    }
+
+
+class Amphibian {
+    -hibernating: boolean
+}
+
+class Invertebrate {
+    -heardAnimal: boolean
+}
+
+class Bird {
+    -canFly: boolean
+}
+
+class Location {
+    -planetName: String
+    -biomes: ArrayList<Biome>
+    -longitude: double
+    -latitude: double
+}
+
+class Biome {
+    -name: String
+    -mainElement: String
+    -temperature: int
+}
+
+class Observations {
+    -invertebrate: Invertebrate
+    -amphibian: Amphibian
+    -bird: Bird
+    -location: Location
+    -comment: String
+    -observationDate: LocalDate
+    -id: long
+}
+
+Animal <|-- Amphibian
+Animal <|-- Invertebrate
+Animal <|-- Bird
+Location o-- Biome
+Observations --> Location
+Observations --> Amphibian
+Observations --> Invertebrate
+Observations --> Bird
+
+@enduml
